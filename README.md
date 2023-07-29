@@ -103,7 +103,7 @@ https://github.com/Candida18/Candida18
 <br>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/ahmedna126"><img alt="Ahmed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=medoox369&custom_title=Ahmed%20Nasr's%20Contribution%20Graph&theme=dracula" /></a><br>
+<a href="https://github.com/medoox369"><img alt="Mohamed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=medoox369&custom_title=Mohamed%20Nasr's%20Contribution%20Graph&theme=dracula" /></a><br>
 
 
 ## 📘 My top open source projects
