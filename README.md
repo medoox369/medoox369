@@ -25,7 +25,7 @@ https://github.com/Candida18/Candida18
 
 <h1 align="center">Hi 👋, I'm Mohamed Nasr</h1>
 <p align="center">
- <a href="https://github.com/medoox369"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=30&font=georgia"></a>
+ <a href="https://github.com/medoox369"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=20&font=georgia"></a>
 </p>
 <h3 align="center">Aspiring Student who wish to learn and work on new skills and technologies 😊 <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"></h3>
 
