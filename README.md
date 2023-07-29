@@ -40,7 +40,7 @@ https://github.com/Candida18/Candida18
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/dev-ameyjoshi/dev-ameyjoshi/99b2a4cbe8707c56e81ab556111bc457fd15068b/coding.gif">
 
-<p align="left"> <a href="https://twitter.com/medoox369" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedna126?logo=twitter&style=for-the-badge" alt="medoox369" /></a> </p>
+<p align="left"> <a href="https://twitter.com/medoox369" target="blank"><img src="https://img.shields.io/twitter/follow/medoox369?logo=twitter&style=for-the-badge" alt="medoox369" /></a> </p>
 
 <!--<img align="right" alt="Coding" width="400" src="aa2.gif">-->
 
