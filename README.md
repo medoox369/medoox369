@@ -31,7 +31,7 @@ https://github.com/Candida18/Candida18
 
 <h3 align="center">Aspiring Student who wish to learn and work on new skills and technologies 😊 <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"></h3>
 
-<p align="center"><a href="https://github.com/medoox369"><img src="https://readme-typing-svg.herokuapp.com?font=georgia&pause=1000&color=6272A4&center=true&vCenter=true&height=19&lines=Frontend+Web+Developer;DS+%7C+AI+%7C+ML+Enthusiast;Graphic+Designer;Always+learning+new+things" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/medoox369"><img src="https://readme-typing-svg.herokuapp.com?font=georgia&pause=1000&color=6272A4&center=true&vCenter=true&height=19&lines=Frontend+Web+Developer;Data+Science;AI+%7C+ML+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a></p>
 
 
 <!--<p align="right">
