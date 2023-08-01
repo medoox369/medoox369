@@ -81,6 +81,7 @@ https://github.com/Candida18/Candida18
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img title="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img title="Word" src="https://camo.githubusercontent.com/8a130d32c5c1664440e7ddc4198feb2188fd1fd1a4f39c0597a59f7f99422725/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d657863656c2d323031392d2d76312e706e67" alt="Word" width="40" height="40"/> </a> 
 </p><hr>
 
 
