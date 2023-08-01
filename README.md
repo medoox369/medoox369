@@ -1,4 +1,3 @@
-
 <!--
 ### Hi there 👋
 **medoox369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,14 +19,19 @@ https://github.com/Candida18/Candida18
 
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 
+
+
 <!--![MasterHead](aa1.gif)-->
 
+<!-- <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="90" /></a> -->
 
-<h1 align="center">Hi 👋, I'm Mohamed Nasr</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Nasr
+</h1>
+
+
 <h3 align="center">Aspiring Student who wish to learn and work on new skills and technologies 😊 <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"></h3>
-<p align="center">
- <a href="https://github.com/medoox369"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=30&font=georgia"></a>
-</p>
+
+<p align="center"><a href="https://github.com/medoox369"><img src="https://readme-typing-svg.herokuapp.com?font=georgia&pause=1000&color=6272A4&center=true&vCenter=true&height=19&lines=Frontend+Web+Developer;DS+%7C+AI+%7C+ML+Enthusiast;Graphic+Designer;Always+learning+new+things" alt="Typing SVG" /></a></p>
 
 
 <!--<p align="right">
@@ -36,7 +40,7 @@ https://github.com/Candida18/Candida18
 <a href="https://github.com/ahmedna126?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ahmedna126?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medoox369&label=Profile%20views&color=0e75b6&style=flat" alt="medoox369" /> </p>
+<p align="left"> <img height="22" src="https://komarev.com/ghpvc/?username=medoox369&label=Profile%20views&color=0e75b6&style=flat" alt="medoox369" /> </p>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/coding.gif"> -->
@@ -81,7 +85,10 @@ https://github.com/Candida18/Candida18
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img title="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img title="Word" src="https://camo.githubusercontent.com/8a130d32c5c1664440e7ddc4198feb2188fd1fd1a4f39c0597a59f7f99422725/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d657863656c2d323031392d2d76312e706e67" alt="Word" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/ar-ww/microsoft-365/word" target="_blank" rel="noreferrer"> <img title="Word" src="https://camo.githubusercontent.com/04d0da1b9af08317ec2110b1245b4b36e510ba02b1b12e8d36c81d29bed6911c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d732d776f72642e706e67" alt="Word" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/ar-ww/microsoft-365/excel" target="_blank" rel="noreferrer"> <img title="Excel" src="https://camo.githubusercontent.com/8a130d32c5c1664440e7ddc4198feb2188fd1fd1a4f39c0597a59f7f99422725/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d657863656c2d323031392d2d76312e706e67" alt="Excel" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/ar-ww/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img title="Powerpoint" src="https://camo.githubusercontent.com/0eaf09fb25a90ef8fdf4de957d07f37982e6fc3cd20663c21226153ead0c8e5a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6d6963726f736f66742d706f776572706f696e742d323031392e706e67" alt="Powerpoint" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img title="VScode" src="https://camo.githubusercontent.com/2f7d9c653bd1edd735b3db07d7c4b47ae45959e17c14053fa4f543ac93cc1a8c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" alt="VScode" width="40" height="40"/> </a> 
 </p><hr>
 
 
