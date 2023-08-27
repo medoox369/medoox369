@@ -126,3 +126,11 @@ https://github.com/Candida18/Candida18
 <p align="center">
   <a href="https://github.com/medoox369?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-6272a4?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
+
+<!--
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/CodeMode365/count.svg" />
+</p>
+-->
