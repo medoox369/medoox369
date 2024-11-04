@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 https://github.com/Candida18/Candida18
 -->
 
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+![MasterHead](https://i.imgur.com/bdOn3Bc.gif)
 
 
 
@@ -29,9 +29,9 @@ https://github.com/Candida18/Candida18
 </h1>
 
 
-<h3 align="center">Aspiring Student who wish to learn and work on new skills and technologies 😊 <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"></h3>
+<h3 align="center">Data Scientist and Analyst with several years of experience creating impactful reports and dashboards. 😊 <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"></h3>
 
-<p align="center"><a href="https://github.com/medoox369"><img src="https://readme-typing-svg.herokuapp.com?font=georgia&pause=1000&color=6272A4&center=true&vCenter=true&height=19&lines=Frontend+Web+Developer;Data+Science;AI+%7C+ML+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/medoox369"><img src="https://readme-typing-svg.herokuapp.com?font=georgia&pause=1000&color=6272A4&center=true&vCenter=true&height=19&lines=Data+Analyst;Data+Scientist;ML+%7C+DL+Developer;Always+learning+new+things" alt="Typing SVG" /></a></p>
 
 
 <!--<p align="right">
@@ -47,7 +47,7 @@ https://github.com/Candida18/Candida18
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/dev-ameyjoshi/dev-ameyjoshi/99b2a4cbe8707c56e81ab556111bc457fd15068b/coding.gif">
 
-<p align="left"> <a href="https://twitter.com/medoox369" target="blank"><img src="https://img.shields.io/twitter/follow/medoox369?logo=twitter&style=for-the-badge" alt="medoox369" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/medoox369/" target="blank"><img src="https://img.shields.io/twitter/follow/medoox369?logo=Linkedin&logoColor=322F2F&logoSize=auto" alt="medoox369" /></a> </p>
 
 <!--<img align="right" alt="Coding" width="400" src="aa2.gif">-->
 
