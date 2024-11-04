@@ -76,14 +76,14 @@ https://github.com/Candida18/Candida18
 
 <div>
 <h4 align="left">🛠️ Tools & Softwares:</h4>
-  <img src="https://i.imgur.com/AsdjIHK.png" height="45" title="Anaconda "/>
-  <img src="https://i.imgur.com/O4aROoO.jpeg" height="45" title="TensorFlow "/>
-  <img src="https://i.imgur.com/Zd88NRh.png" height="45" title="Git "/>
-  <img src="https://i.imgur.com/nXtN9vl.png" height="45" title="Linux "/>
-  <img src="https://i.imgur.com/cRADQLY.png" height="45" title="VS Code "/>
-  <img src="https://i.imgur.com/pa9FUkG.png" height="45" title="SQL "/>
-  <img src="https://i.imgur.com/4eCzzYa.png" height="70" title="Word "/>
-  <img src="https://i.imgur.com/BOqHC1f.png" height="45" title="PowerPoint "/>
+  <img src="https://i.imgur.com/AsdjIHK.png" height="40" title="Anaconda "/>
+  <img src="https://i.imgur.com/O4aROoO.jpeg" height="40" title="TensorFlow "/>
+  <img src="https://i.imgur.com/Zd88NRh.png" height="40" title="Git "/>
+  <img src="https://i.imgur.com/nXtN9vl.png" height="40" title="Linux "/>
+  <img src="https://i.imgur.com/cRADQLY.png" height="40" title="VS Code "/>
+  <img src="https://i.imgur.com/pa9FUkG.png" height="40" title="SQL "/>
+  <img src="https://i.imgur.com/4eCzzYa.png" height="60" title="Word "/>
+  <img src="https://i.imgur.com/BOqHC1f.png" height="40" title="PowerPoint "/>
 </div>
 <h4 align="left">🔬 Data Science & Machine Learning:</h4>
 <div align="left">
