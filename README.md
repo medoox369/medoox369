@@ -59,7 +59,7 @@ https://github.com/Candida18/Candida18
 
 - 💬 Ask me about **Data Science**
 
-- 📫 You can get in touch with me on [Linkedin](https://www.linkedin.com/in/medoox369)
+- 📫 You can get in touch with me on [whatsapp](https://wa.me/201276977748?text=Hi%20Mohamed%2C%20I'm%20your%20friend%20from%20GitHub.)
 
 <!-- - 📫 How to reach me **example@gmail.com**-->
 <h3 align="left">Connect with me:</h3>
@@ -74,22 +74,65 @@ https://github.com/Candida18/Candida18
 <a href="https://dev.to/medoox369" target="blank"><img title="Dev.io" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="medoox369" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img title="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img title="Css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img title="R" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img title="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/ar-ww/microsoft-365/word" target="_blank" rel="noreferrer"> <img title="Word" src="https://camo.githubusercontent.com/04d0da1b9af08317ec2110b1245b4b36e510ba02b1b12e8d36c81d29bed6911c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d732d776f72642e706e67" alt="Word" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/ar-ww/microsoft-365/excel" target="_blank" rel="noreferrer"> <img title="Excel" src="https://camo.githubusercontent.com/8a130d32c5c1664440e7ddc4198feb2188fd1fd1a4f39c0597a59f7f99422725/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d657863656c2d323031392d2d76312e706e67" alt="Excel" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/ar-ww/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img title="Powerpoint" src="https://camo.githubusercontent.com/0eaf09fb25a90ef8fdf4de957d07f37982e6fc3cd20663c21226153ead0c8e5a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6d6963726f736f66742d706f776572706f696e742d323031392e706e67" alt="Powerpoint" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img title="VScode" src="https://camo.githubusercontent.com/2f7d9c653bd1edd735b3db07d7c4b47ae45959e17c14053fa4f543ac93cc1a8c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" alt="VScode" width="40" height="40"/> </a> 
-</p><hr>
+<div>
+<h4 align="left">🛠️ Tools & Softwares:</h4>
+  <img src="https://i.imgur.com/AsdjIHK.png" height="45" title="Anaconda "/>
+  <img src="https://i.imgur.com/O4aROoO.jpeg" height="45" title="TensorFlow "/>
+  <img src="https://i.imgur.com/Zd88NRh.png" height="45" title="Git "/>
+  <img src="https://i.imgur.com/nXtN9vl.png" height="45" title="Linux "/>
+  <img src="https://i.imgur.com/cRADQLY.png" height="45" title="VS Code "/>
+  <img src="https://i.imgur.com/pa9FUkG.png" height="45" title="SQL "/>
+  <img src="https://i.imgur.com/4eCzzYa.png" height="70" title="Word "/>
+  <img src="https://i.imgur.com/BOqHC1f.png" height="45" title="PowerPoint "/>
+</div>
+<h4 align="left">🔬 Data Science & Machine Learning:</h4>
+<div align="left">
+<a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  </a> <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img title="R" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+   <a href="https://matplotlib.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" title="matplotlib"/>
+  </a>
+  <img src="https://i.imgur.com/7ng4kBs.png" height="40" title="plotly"/>
+  <img src="https://i.imgur.com/2YAlf6v.png" height="45" titlte="streamlit"/>
+    <img src="https://i.imgur.com/Gipcqo5.png" height="45" title="ML"/>
+    <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
+  </a>
+  </div>
+</div>
+<h4 align="left">📊 Data Analysis Tools:</h4>
+<div align="left">
+  <img src="https://www.svgrepo.com/show/373589/excel.svg" height="45" alt="Excel Logo" style="display: inline-block; margin-right: 10px;"/>
+  
+  <a href="https://powerbi.microsoft.com/" target="_blank" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/PNG/Power-BI.png" alt="Power BI" width="40" height="40" title="Power BI" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  </div>
+<h4 align="left">🌐 Web Development:</h4>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+   <img src="https://i.imgur.com/O1KfoSb.png" height="45" title="Bootstrap "/>
+
+</p>
 
 
 <!--<h3 align="left">Support:</h3>
