@@ -29,7 +29,7 @@ https://github.com/Candida18/Candida18
 </h1>
 
 
-<h3 align="center">Data Scientist and Analyst with several years of experience creating impactful reports and dashboards😊 <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"></h3>
+<h3 align="center">Data Scientist and Analyst with several years of experience creating impactful reports and dashboards. 😊 <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"></h3>
 
 <p align="center"><a href="https://github.com/medoox369"><img src="https://readme-typing-svg.herokuapp.com?font=georgia&pause=1000&color=6272A4&center=true&vCenter=true&height=19&lines=Data+Analyst;Data+Scientist;ML+%7C+DL+Developer;Always+learning+new+things" alt="Typing SVG" /></a></p>
 
