@@ -31,7 +31,6 @@
 
 <br>
 
-<!-- قسم النبذة مع صورة متحركة بمسافة احترافية -->
 <div align="center">
   <table>
     <tr>
@@ -45,7 +44,6 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <!-- استخدام hspace لضمان وجود مسافة بين النص والصورة -->
         <img src="https://raw.githubusercontent.com/dev-ameyjoshi/dev-ameyjoshi/99b2a4cbe8707c56e81ab556111bc457fd15068b/coding.gif" width="350" hspace="20" alt="Coding Animation">
       </td>
     </tr>
@@ -119,14 +117,13 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
 </p>
 
-<h3 align="left">🌐 Web Development:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,fastapi,flask,django&theme=dark" alt="Web Dev" />
-  </a>
-</p>
-
 ---
+
+<!-- GIF انيميشن متقدم لكسر الملل -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Tech Cyber GIF"/>
+</div>
+<br>
 
 <h2 align="center">🏆 GitHub Achievements & Trophies</h2>
 <div align="center">
@@ -140,10 +137,10 @@
 <h2 align="center">📈 GitHub Performance Analytics</h2>
 
 <div align="center">
-  <!-- الروابط دي تم تحديثها للسيرفر الرسمي عشان تشتغل علطول بدون رسالة error -->
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background: transparent;">
     <tr>
       <td align="center">
+        <!-- الروابط اتصلحت ومفيش اي / زيادة -->
         <img height="195" src="https://github-readme-stats.vercel.app/api?username=medoox369&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=bd93f9" alt="GitHub Stats"/>
       </td>
       <td align="center">
@@ -160,41 +157,37 @@
 <h2 align="center">⚡ Contribution Activity Graph</h2>
 <div align="center">
   <a href="https://github.com/medoox369">
+    <!-- الرابط ده اتصلح واشتغل تمام -->
     <img alt="Mohamed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=medoox369&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true&custom_title=Enterprise%20Contribution%20Graph" width="100%" />
   </a>
 </div>
 
 <br>
 
-<!-- الكروت دي بقت احترافية جداً 3D Cards بدال القائمة المملة -->
 <h2 align="center">🔥 Featured Premium Projects</h2>
 <div align="center">
+  <!-- الكروت دي هتعرض المشاريع بشكل جميل بدل ال Popular repositories الافتراضية -->
   <a href="https://github.com/medoox369/GYM">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=medoox369&repo=GYM&theme=dracula&hide_border=true&title_color=bd93f9&icon_color=ff79c6" alt="GYM Project">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=medoox369&repo=GYM&theme=dracula&hide_border=true&title_color=bd93f9&icon_color=ff79c6" alt="GYM Project">
   </a>
   <a href="https://github.com/medoox369/course">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=medoox369&repo=course&theme=dracula&hide_border=true&title_color=bd93f9&icon_color=ff79c6" alt="Course Project">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=medoox369&repo=course&theme=dracula&hide_border=true&title_color=bd93f9&icon_color=ff79c6" alt="Course Project">
   </a>
 </div>
 
 <br>
 
 <h2 align="center">🎮 Code History (Animation Graph)</h2>
-<!-- 
-  NOTE: لعرض لعبة الـ Snake أو الـ Pacman اللي بتاكل المساهمات الخضراء، 
-  تحتاج إلى تفعيل GitHub Action داخل المستودع الخاص بك لإنشاء الصورة تلقائياً.
-  الصورة بالأسفل ستعمل بمجرد تفعيلك للـ Action!
--->
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/medoox369/medoox369/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/medoox369/medoox369/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid animation" src="https://raw.githubusercontent.com/medoox369/medoox369/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
 <br>
-<!-- 3D Tech Data Footer GIF -->
 <div align="center">
   <img src="https://cdn.dribbble.com/users/418188/screenshots/3102257/media/1a3f6edb9a67455a297eefb3b24f56f1.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px;" alt="Footer Tech Data GIF" />
 </div>
